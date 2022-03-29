@@ -1,42 +1,106 @@
+.parent-div1{
+    margin: 7px;
+    height: 200px;
+    width: 842px;
+    background-color:rgb(78, 75, 75);
+}
+
 
 .box1{
     margin: 0;
-    height: 100px;
-    width: 100px;
-    background-color: black;
+    height: 190px;
+    width: 270px;
+    background-color: grey;
     display: inline-block;
-    margin:50px 0 0 50px ;
+    margin:6px 0 6px 6px ;
+    vertical-align: auto;
 }
 
 .box2{
     margin: 0;
+    height: 190px;
+    width: 270px;
+    background-color: grey;
+    display: inline-block;
+    margin:6px 0 6px 6px ;
+    vertical-align: auto;
+}
+
+.box3{
+    margin: 0;
+    height: 190px;
+    width: 270px;
+    background-color: grey;
+    display: inline-block;
+    margin:6px 0 6px 6px ;
+    vertical-align: auto;
+}
+
+.parent-div2{
+    margin: 7px;
+    height: 200px;
+    width: 842px;
+    background-color: rgb(78, 75, 75);
+}
+
+.box4{
+    margin: 0;
     height: 100px;
     width: 100px;
-    background-color: black;
+    background-color: grey;
     display:inline-block;
     margin:50px 0 0 50px;
 }
 
-.parent-div1{
+.box5{
     margin: 0;
-    height: 200px;
-    width: 350px;
-    background-color: red;
-    display: inline-block;
- 
-
+    height: 100px;
+    width: 100px;
+    background-color: grey;
+    display:inline-block;
+    margin:50px 0 0 50px;
 }
 
-.parent-div2{
+.box6{
     margin: 0;
-    height: 200px;
-    width: 350px;
-    background-color: blue;
-    display: inline-block;
-
+    height: 100px;
+    width: 100px;
+    background-color: grey;
+    display:inline-block;
+    margin:50px 0 0 50px;
 }
-/* 
-.grandparent-div {
-    display: flex;
 
-} */
+.box7{
+    margin: 0;
+    height: 100px;
+    width: 100px;
+    background-color: grey;
+    display:inline-block;
+    margin:50px 0 0 50px;
+}
+
+.parent-div3{
+    margin: 7px;
+    height: 200px;
+    width: 800px;
+    background-color: rgb(78, 75, 75);
+    
+}
+
+.box8{
+    margin: 0;
+    height: 100px;
+    width: 100px;
+    background-color: grey;
+    display:inline-block;
+    margin:50px 0 0 50px;
+}
+
+.box9{
+    margin: 0;
+    height: 100px;
+    width: 100px;
+    background-color: grey;
+    display:inline-block;
+    margin:50px 0 0 50px;
+}
